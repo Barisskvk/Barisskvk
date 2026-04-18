@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Isa Baris Kevuk 👋
 
-<!--
-**Barisskvk/Barisskvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Current Work**
+- Building AI-assisted full-stack applications
+- Improving my backend development and API design skills
+- Learning secure, scalable, and reliable software architecture
+- Exploring intelligent systems, multimodal applications, and agent workflows
 
-Here are some ideas to get you started:
+🎯 **Career Goals**
+- Specialize in AI-integrated software development
+- Grow in backend and full-stack engineering
+- Build reliable and practical software systems
+- Strengthen my understanding of software architecture and production-ready development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,docker,mysql,postgres,react,nextjs,nestjs,spring,expo" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+## Connect with me
+- 🌐 LinkedIn: [linkedin.com/in/isa-barış-kevük-6b9075247](https://www.linkedin.com/in/isa-barış-kevük-6b9075247)
+- ✉️ Email: [isabariskevuk@gmail.com](mailto:isabariskevuk@gmail.com)
